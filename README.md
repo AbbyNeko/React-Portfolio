@@ -1,1 +1,3 @@
-# React-Portfolio
+# React Portfolio
+
+My Portfolio re-made using React
